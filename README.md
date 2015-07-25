@@ -10,3 +10,5 @@ same folder as the assets and you're good to go.
 
 You can download a pre-built verison here:
 https://github.com/MrEricSir/PoorlyDrawnRobotsInSpace/releases/download/1.0/PoorlyDrawnRobotsInSpace.zip
+
+For more information about the game and some screenshots, check out this blog post: http://www.mrericsir.com/blog/personal/poorly-drawn-robots-in-space/
