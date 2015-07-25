@@ -7,3 +7,6 @@ amused myself by making games.  Recently discovered on a very old hard drive, I 
 
 To compile, you need an old version of DirectX (it requires DirectDraw) and Visual Studio 6.  Put the .exe in the 
 same folder as the assets and you're good to go.
+
+You can download a pre-built verison here:
+https://github.com/MrEricSir/PoorlyDrawnRobotsInSpace/releases/download/1.0/PoorlyDrawnRobotsInSpace.zip
